@@ -1,0 +1,16 @@
+2025-04-19 18:49:01,390 - whatsapp_api - ERROR - Erro ao configurar webhook: 401 - {"error":{"message":"Invalid OAuth access token - Cannot parse access token","type":"OAuthException","code":190,"fbtrace_id":"AUsi4Ryx_K0Dmi-NUDFsewR"}}
+2025-04-19 18:49:01,395 - uvicorn.error - INFO - Will watch for changes in these directories: ['C:\\Users\\MAISON PELISSARE\\OneDrive\\Área de Trabalho\\programing\\Mpc']
+2025-04-19 18:49:01,397 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-04-19 18:49:01,397 - uvicorn.error - INFO - Started reloader process [5164] using statreload
+2025-04-19 18:49:02,984 - uvicorn.error - INFO - Started server process [24888]
+2025-04-19 18:49:02,985 - uvicorn.error - INFO - Waiting for application startup.
+2025-04-19 18:49:02,986 - uvicorn.error - INFO - Application startup complete.
+2025-04-19 18:50:22,107 - whatsapp_api - ERROR - Erro ao configurar webhook: 401 - {"error":{"message":"Invalid OAuth access token - Cannot parse access token","type":"OAuthException","code":190,"fbtrace_id":"ATY2fQQl1k0T4IECFvgiLsr"}}
+2025-04-19 18:50:22,110 - uvicorn.error - INFO - Will watch for changes in these directories: ['C:\\Users\\MAISON PELISSARE\\OneDrive\\Área de Trabalho\\programing\\Mpc']
+2025-04-19 18:50:22,111 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-04-19 18:50:22,112 - uvicorn.error - INFO - Started reloader process [12740] using statreload
+2025-04-19 18:50:23,690 - uvicorn.error - INFO - Started server process [26832]
+2025-04-19 18:50:23,691 - uvicorn.error - INFO - Waiting for application startup.
+2025-04-19 18:50:23,692 - uvicorn.error - INFO - Application startup complete.
+2025-04-19 18:59:36,501 - whatsapp_api - ERROR - Erro ao configurar webhook: 401 - {"error":{"message":"Invalid OAuth access token - Cannot parse access token","type":"OAuthException","code":190,"fbtrace_id":"AhgwKAIesnkq2P3CkC-HOk5"}}
+2025-04-19 19:02:40,408 - whatsapp_api - ERROR - Erro ao configurar webhook: 401 - {"error":{"message":"Invalid OAuth access token - Cannot parse access token","type":"OAuthException","code":190,"fbtrace_id":"AOTPOyQTfml9Z6ji2u1SQod"}}
